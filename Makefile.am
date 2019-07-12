@@ -1,3 +1,4 @@
+#MakeFile
 AUTOMAKE_OPTIONS = foreign
 
 CFLAGS = -Wall -pedantic
